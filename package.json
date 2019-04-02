@@ -1,0 +1,14 @@
+{
+  "name": "pute",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Richienb/pute",
+  "author": "Richie Bendall <richiebendall@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+  	"build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.4.1"
+  }
+}
